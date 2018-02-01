@@ -4,6 +4,3 @@
 - git:
     local-name: prg_woz
     uri: git@github.com:cwbollinger/prg_woz.git
-- git:
-    local-name: rosbridge_suite
-    uri: git@github.com:RobotWebTools/rosbridge_suite.git
